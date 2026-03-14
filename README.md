@@ -1,22 +1,12 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ishan%20Hirani&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20and%20Data%20Science%20Engineer&descAlignY=62&descSize=18&animation=fadeIn)
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Ishan%20Hirani&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Science+%2B+Agentic+AI+Developer;ETL+Pipelines+%7C+LLMs+%7C+NLP;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Science+%2B+Agentic+AI+Developer;ETL+Pipelines+%7C+LLMs+%7C+NLP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishan%20Hirani-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ishan-hirani)
-[![GitHub](https://img.shields.io/badge/GitHub-Ishanhirani11-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Ishanhirani11)
-[![Kaggle](https://img.shields.io/badge/Kaggle-hiraniishan-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white)](https://www.kaggle.com/hiraniishan)
-[![Email](https://img.shields.io/badge/Email-hiraniishan17@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hiraniishan17@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishanhirani11)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ishanhirani11&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Ishanhirani11)
 
 ---
 
@@ -26,12 +16,12 @@
 class IshanHirani:
     def __init__(self):
         self.name        = "Ishan Hirani"
-        self.role        = "AI &amp; Data Science Engineer"
-        self.education   = "B.Tech AI&amp;DS @ GEC Rajkot (2026)"
+        self.role        = "AI & Data Science Engineer"
+        self.education   = "B.Tech AI & DS @ GEC Rajkot (2026)"
         self.location    = "Mahuva, Gujarat, India 🇮🇳"
         self.focus       = ["Agentic AI", "Data Science", "LLMs", "ETL Pipelines"]
         self.currently   = "Building intelligent, scalable AI applications"
-        self.fun_fact    = "I taught an AI to report potholes 🕳️→🤖"
+        self.fun_fact    = "I taught an AI to report potholes 🕳️ → 🤖"
 
     def greet(self):
         return "Let's build something intelligent together! 🚀"
@@ -39,60 +29,57 @@ class IshanHirani:
 
 ---
 
-## 🛠️ Tech Stack &amp; Tools
+## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### AI / Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+### 🤖 AI & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
 
-### Tools &amp; Platforms
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+### 🧰 Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### 🤖 AI Intern — IBM Skillbox *(July 2025)*
+**🤖 AI Intern — IBM Skillbox** &nbsp;`July 2025`
 
-> Built **"Water Guardian"** — an AI-powered civic chatbot using the **Gemini API + NLP** to automate civic issue reporting for social impact.
+Built **Water Guardian** — an AI-powered civic chatbot using Gemini API and NLP to automate civic issue reporting.
 
-- 🧩 Worked with **Prompt Engineering**, **LLMs**, and **Multi-Agent Systems**
-- 📐 Applied **Lean Canvas** methodology for strategic project design
-- 🌍 Focused on real-world impact: making civic reporting smarter and faster
-
----
-
-## 🚀 Featured Projects
+- Worked with **Prompt Engineering**, **LLMs**, and **Multi-Agent Systems**
+- Applied **Lean Canvas** methodology for strategic project design
+- Focused on real-world social impact: smarter, faster civic reporting
 
 ---
 
-### 📊 Finance Data Pipeline &amp; Dashboard
-> *Python · Pandas · Power BI*
+## 🚀 Projects
 
-An **end-to-end data pipeline** that transforms raw bank transaction logs into actionable visual insights.
+### 📊 Finance Data Pipeline & Dashboard
+`Python` `Pandas` `Power BI`
 
-| What I Built | Impact |
+End-to-end pipeline that transforms raw bank transaction logs into visual spending insights.
+
+| Built | Impact |
 |---|---|
-| Auto-categorization engine (Food, Travel, Utilities) | 90% reduction in manual tracking time |
-| Python ETL scripts with Pandas | Clean, structured financial data |
-| Interactive Power BI Dashboard | Real-time monthly spending trends |
+| Auto-categorization engine (Food, Travel, Utilities) | 90% less manual tracking time |
+| ETL scripts with Pandas | Clean, structured financial data |
+| Interactive Power BI Dashboard | Real-time monthly trend visibility |
 
 ```python
-# Auto-tagging transactions by category
 def categorize(description):
     rules = {
         "food": ["zomato", "swiggy", "restaurant"],
@@ -107,65 +94,56 @@ def categorize(description):
 
 ---
 
-### 🌦️ Automated Weather Data ETL Pipeline
-> *Python · OpenWeatherMap API · SQL · Cron*
+### 🌦️ Automated Weather ETL Pipeline
+`Python` `OpenWeatherMap API` `SQL` `Cron`
 
-A **fully automated ETL pipeline** that fetches, transforms, and stores real-time weather data for 5 major cities — daily, hands-free.
+Fully automated pipeline fetching and storing real-time weather data for 5 cities — daily, hands-free.
 
-- 🔄 Scheduled via **Task Scheduler / Cron** for daily automated runs
-- 🌐 Pulls live data from **OpenWeatherMap API**
-- 🗄️ Stores cleaned historical data in structured **CSV / MySQL** format for trend analysis
+- Scheduled via **Cron / Task Scheduler** for zero-touch daily runs
+- Pulls live data from **OpenWeatherMap API**
+- Stores cleaned history in **CSV / MySQL** for trend analysis
+
+---
+
+### 🌊 Water Guardian — AI Civic Chatbot
+`Gemini API` `NLP` `Multi-Agent Systems` `Prompt Engineering`
+
+Agentic chatbot that streamlines civic issue reporting using LLMs and multi-agent architecture. *(IBM Skillbox Internship)*
+
+- Powered by **Gemini API** with custom prompt engineering
+- Multi-agent design for intelligent issue routing and resolution
+- Built for real-world social impact
 
 ---
 
 ### 🎙️ Voice-Based Virtual Assistant
-> *Python · SpeechRecognition · NLP*
+`Python` `SpeechRecognition` `NLP`
 
-A desktop **voice assistant** that understands natural language commands to control your system.
+Desktop voice assistant that understands natural language to control your system.
 
-- 🗣️ **Speech-to-Text** processing for natural language commands
-- 💻 Executes system tasks: open apps, search the web, and more
-- ⚡ Lightweight and offline-capable
-
----
-
-### 🌊 Water Guardian — AI Civic Chatbot *(IBM Internship)*
-> *Gemini API · NLP · Multi-Agent Systems · Prompt Engineering*
-
-An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and multi-agent architecture.
-
-- 🤖 Powered by **Gemini API** with custom prompt engineering
-- 🧠 Multi-agent design for intelligent issue routing
-- 🏙️ Built for real-world social impact during IBM Skillbox internship
+- **Speech-to-Text** for natural command processing
+- Executes tasks: open apps, web search, and more
+- Lightweight and offline-capable
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=555555&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=7C3AED&text_color=555555)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d0d1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&amp;layout=compact&amp;langs_count=8&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d0d1a"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0d0d1a)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=555555&dates=555555&currStreakNum=7C3AED&sideNums=7C3AED)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 Certifications &amp; Achievements
+## 🏆 Certifications
 
-| 🏅 Achievement | Issuer |
+| Certificate | Issuer |
 |---|---|
 | GenAI Powered Data Analytics Job Simulation | Tata Group |
 | Data Visualisation Certification | Tata Group |
 | Cybersecurity Fundamentals | Udemy |
 | Essential Non-Technical Skills for Data Scientists | Udemy |
-| 30+ Problems Solved on Coding Platforms | Various |
 
 ---
 
@@ -173,41 +151,17 @@ An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and 
 
 | Degree | Institute | Score | Year |
 |---|---|---|---|
-| B.Tech — AI &amp; Data Science | Government Engineering College, Rajkot | CGPA: 7.17 | 2026 |
+| B.Tech — AI & Data Science | Government Engineering College, Rajkot | CGPA: 7.17 | 2026 |
 | 12th Science | SGVP International School, Ahmedabad | 80% | 2022 |
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Ishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d0d1a&amp;color=A78BFA&amp;line=7C3AED&amp;point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
 ## 🌐 Let's Connect
 
-<div align="center">
-
 > *"Data is the new oil — but intelligence is the engine."*
 
-If you're working on something in **AI, Data Science, or Agentic Systems** — let's talk!
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
+[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
+[![Gmail](https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ishan-hirani)
-[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white)](https://www.kaggle.com/hiraniishan)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hiraniishan17@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ishanhirani11&amp;color=7C3AED&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn)
