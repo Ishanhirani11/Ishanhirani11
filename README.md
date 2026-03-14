@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ishan%20Hirani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Ishan%20Hirani&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Science%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Science+%2B+Agentic+AI+Developer;ETL+Pipelines+%7C+LLMs+%7C+NLP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Science+%2B+Agentic+AI+Developer;ETL+Pipelines+%7C+LLMs+%7C+NLP;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -144,8 +144,8 @@ An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d0d1a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&amp;layout=compact&amp;langs_count=8&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d0d1a"/>
 
 </div>
 
@@ -206,7 +206,7 @@ If you're working on something in **AI, Data Science, or Agentic Systems** — l
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ishanhirani11&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
