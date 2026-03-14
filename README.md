@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishan%20Hirani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
-[![GitHub](https://img.shields.io/badge/GitHub-Ishanhirani11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishanhirani11)
-[![Kaggle](https://img.shields.io/badge/Kaggle-hiraniishan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
-[![Email](https://img.shields.io/badge/Email-hiraniishan17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishan%20Hirani-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ishan-hirani)
+[![GitHub](https://img.shields.io/badge/GitHub-Ishanhirani11-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Ishanhirani11)
+[![Kaggle](https://img.shields.io/badge/Kaggle-hiraniishan-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white)](https://www.kaggle.com/hiraniishan)
+[![Email](https://img.shields.io/badge/Email-hiraniishan17@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hiraniishan17@gmail.com)
 
 </div>
 
@@ -26,8 +26,8 @@
 class IshanHirani:
     def __init__(self):
         self.name        = "Ishan Hirani"
-        self.role        = "AI & Data Science Engineer"
-        self.education   = "B.Tech AI&DS @ GEC Rajkot (2026)"
+        self.role        = "AI &amp; Data Science Engineer"
+        self.education   = "B.Tech AI&amp;DS @ GEC Rajkot (2026)"
         self.location    = "Mahuva, Gujarat, India 🇮🇳"
         self.focus       = ["Agentic AI", "Data Science", "LLMs", "ETL Pipelines"]
         self.currently   = "Building intelligent, scalable AI applications"
@@ -39,28 +39,28 @@ class IshanHirani:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack &amp; Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
 
 ### AI / Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&amp;logo=python&amp;logoColor=white)
 
-### Tools & Platforms
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Tools &amp; Platforms
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
 
 ---
 
@@ -80,7 +80,7 @@ class IshanHirani:
 
 ---
 
-### 📊 Finance Data Pipeline & Dashboard
+### 📊 Finance Data Pipeline &amp; Dashboard
 > *Python · Pandas · Power BI*
 
 An **end-to-end data pipeline** that transforms raw bank transaction logs into actionable visual insights.
@@ -151,13 +151,13 @@ An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=midnight-purple&hide_border=true&background=0d0d1a)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0d0d1a)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications &amp; Achievements
 
 | 🏅 Achievement | Issuer |
 |---|---|
@@ -173,7 +173,7 @@ An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and 
 
 | Degree | Institute | Score | Year |
 |---|---|---|---|
-| B.Tech — AI & Data Science | Government Engineering College, Rajkot | CGPA: 7.17 | 2026 |
+| B.Tech — AI &amp; Data Science | Government Engineering College, Rajkot | CGPA: 7.17 | 2026 |
 | 12th Science | SGVP International School, Ahmedabad | 80% | 2022 |
 
 ---
@@ -182,7 +182,7 @@ An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and 
 
 <div align="center">
 
-[![Ishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d0d1a&amp;color=A78BFA&amp;line=7C3AED&amp;point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -196,9 +196,9 @@ An **agentic AI chatbot** that streamlines civic issue reporting using LLMs and 
 
 If you're working on something in **AI, Data Science, or Agentic Systems** — let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
-[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/ishan-hirani)
+[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white)](https://www.kaggle.com/hiraniishan)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hiraniishan17@gmail.com)
 
 </div>
 
@@ -208,6 +208,6 @@ If you're working on something in **AI, Data Science, or Agentic Systems** — l
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ishanhirani11&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ishanhirani11&amp;color=7C3AED&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
 
 </div>
