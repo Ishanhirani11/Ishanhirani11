@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ishan Hirani 👋</h1>
 
 <p align="center">
-  <b>Data Engineer · AI/ML Developer · Pipeline Builder</b><br/>
-  B.Tech AI & Data Science @ Government Engineering College, Rajkot · Class of 2026
+  <b>Data Engineer · AI/ML Developer</b><br/>
+  B.Tech AI & DS @ Government Engineering College, Rajkot · Class of 2026
 </p>
 
 <p align="center">
@@ -14,16 +14,6 @@
 
 ---
 
-<!-- OPEN TO WORK BANNER -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to%20Work-Data%20Engineer%20%7C%20Data%20Analyst%20%7C%202026%20Grad-2ea44f?style=for-the-badge"/>
-</p>
-<p align="center">
-  📬 Actively seeking Data Engineering & AI/ML roles &nbsp;·&nbsp; <a href="mailto:hiraniishan17@gmail.com">hiraniishan17@gmail.com</a> &nbsp;·&nbsp; Open to relocation
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 I'm a final-year AI & Data Science student with a strong focus on **Data Engineering** — building reliable pipelines, automating workflows, and turning raw data into structured, analysis-ready assets. I've built end-to-end ETL systems, worked with REST APIs, and developed AI-powered applications during internships at **UNIKWORK** and **IBM Skillbox**.
@@ -31,20 +21,9 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 - 🔧 Currently building: scalable ETL pipelines & data engineering portfolio projects
 - 📚 Pursuing: IBM Data Engineering Professional Certificate & AWS Data Engineering
 - 🎯 Looking for: Data Engineer / Data Analyst roles (2026 grad, open to relocation)
-- 💬 Ask me about: Python pipelines, SQL, REST APIs, web scraping, LLM integration
+- 💬 Ask me about: Python, Pipelines, SQL, REST APIs, Web Scraping, LLM integration
 
 > *"Pipelines don't fail by accident — they fail by neglect. Build them right the first time."*
-
----
-
-## 🚧 Currently Building
-
-```text
-📦  Cardiac Outcomes ML Pipeline      ████████████░░░  75%  — XGBoost + class imbalance handling
-🌐  Job Market Data Aggregator         ██████████░░░░░  65%  — Naukri + Indeed scraper → MySQL
-📜  IBM Data Engineering Certificate   ████████░░░░░░░  55%  — Coursera / IBM
-☁️  AWS Data Engineering Foundations   ██████░░░░░░░░░  40%  — In Progress
-```
 
 ---
 
@@ -164,27 +143,6 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=0A66C2" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishanhirani11&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishanhirani11&theme=flat&no-frame=true&column=6&margin-w=10"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 | Certificate | Provider | Status |
@@ -208,7 +166,7 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 ---
 
 <p align="center">
-  <i>"Pipelines don't fail by accident — they fail by neglect. Build them right the first time."</i><br/><br/>
+  <i>"Data is only as valuable as the pipeline that delivers it."</i><br/><br/>
   <a href="https://linkedin.com/in/ishan-hirani"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:hiraniishan17@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
