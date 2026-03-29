@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ishan Hirani 👋</h1>
  
 <p align="center">
-  <b>Data Engineer · AI/ML Developer · Pipeline Builder</b><br/>
-  B.Tech AI & Data Science @ Government Engineering College, Rajkot · Class of 2026
+  <b>Data Engineer · AI/ML Developer</b><br/>
+  B.Tech Artificial Intelligence & Data Science @ Government Engineering College, Rajkot · Class of 2026
 </p>
  
 <p align="center">
@@ -16,12 +16,12 @@
  
 ## 🧑‍💻 About Me
  
-I'm a final-year AI & Data Science student with a strong focus on **Data Engineering** — building reliable pipelines, automating workflows, and turning raw data into structured, analysis-ready assets. I've built end-to-end ETL systems, worked with REST APIs, and developed AI-powered applications during internships at **UNIKWORK** and **IBM Skillbox**.
+I'm a final-year Artificial Intelligence & Data Science student with a strong focus on **Data Engineering** — building reliable pipelines, automating workflows, and turning raw data into structured, analysis-ready assets. I've built end-to-end ETL systems, worked with REST APIs, and developed AI-powered applications during internships at **UNIKWORK** and **IBM Skillbox**.
  
 - 🔧 Currently building: scalable ETL pipelines & data engineering portfolio projects
 - 📚 Pursuing: IBM Data Engineering Professional Certificate & AWS Data Engineering
-- 🎯 Looking for: Data Engineer / Data Analyst roles (2026 grad, open to relocation)
-- 💬 Ask me about: Python pipelines, SQL, REST APIs, web scraping, LLM integration
+- 🎯 Looking for: Data Engineer roles (2026 grad, open to relocation)
+- 💬 Ask me about: Python, pipelines, SQL, REST APIs, web scraping, LLM integration
  
 ---
  
