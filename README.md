@@ -27,6 +27,49 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 
 ---
 
+## ⚡ What I Specialize In
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Data Engineering**
+- Multi-source ETL pipelines (REST API, Selenium, RapidAPI)
+- PostgreSQL schema design & query optimization
+- Apache Airflow DAG orchestration & scheduling
+- Data cleaning, transformation, deduplication at scale
+- Web scraping with BeautifulSoup & Selenium
+- Automated workflows with Cron & task scheduling
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI / Machine Learning**
+- Deep learning model architecture from scratch (PyTorch)
+- Latent Diffusion Models — VAE, U-Net, DDPM/DDIM
+- LLM integration — Gemini, Groq, prompt engineering
+- Vector databases & semantic search (ChromaDB)
+- NLP pipelines — intent classification, skill extraction
+- Offline-first AI systems with hybrid architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 By the Numbers
+
+<div align="center">
+
+| 📦 **2,322+** | ⚙️ **7-Task** | 🧬 **1,000-Step** | 🎙️ **9-Stage** | 🏢 **2** | 📁 **4** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Records/day | Airflow DAG | DDPM Training | Voice Pipeline | Internships | Live Projects |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Core Languages
@@ -61,107 +104,25 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 
 ---
 
-## 📍 Data Engineering Skills Roadmap
+## 📊 GitHub Stats
 
-| Domain | Skills | Status |
-|---|---|---|
-| **Languages** | Python, SQL | ✅ Proficient |
-| **ETL & Pipelines** | REST API ingestion, Web Scraping, Data Cleaning, Transformation | ✅ Proficient |
-| **Databases** | MySQL, SQLite, Data Modeling | ✅ Proficient |
-| **Workflow Automation** | Cron Scheduling, Task Scheduling | ✅ Proficient |
-| **Data Analysis** | Pandas, NumPy, EDA, Feature Engineering | ✅ Proficient |
-| **Visualization** | Matplotlib, Seaborn, Plotly | ✅ Proficient |
-| **ML Integration** | Scikit-Learn, XGBoost, Model Pipelines | ✅ Hands-on |
-| **Backend & APIs** | Flask, Django, REST APIs | ✅ Hands-on |
-| **LLM & AI Tools** | Gemini API, Groq, Prompt Engineering | ✅ Hands-on |
-| **Cloud — AWS** | AWS Data Engineering Foundations | 🔄 Learning |
-| **Orchestration** | Apache Airflow | 🔄 Learning |
-| **Big Data** | Apache Spark | 🔄 Learning |
-| **Transformation** | dbt (data build tool) | 🔄 Learning |
-| **Containers** | Docker | 🔄 Learning |
-| **Cloud Warehouses** | BigQuery, Redshift | 🔄 Learning |
+<div align="center">
 
----
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=g00562&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-## 🧰 Currently Learning
+</div>
 
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g00562&layout=donut-vertical&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&size_weight=0.5&count_weight=0.5"/>
 
-## 💼 Experience
+</div>
 
-### 🤖 AI & Machine Learning Intern — UNIKWORK `Jan – Mar 2026`
-- Built **web scraping and ETL pipelines** with data cleaning, transformation, and storage in **MySQL**
-- Developed **REST API** backend services using **Flask** and **Django**
-- Performed **EDA and feature engineering** using Pandas, NumPy, and visualization libraries
-- Gained exposure to **data modeling** and **workflow automation**
+<div align="center">
 
-### 🧠 AI Intern — IBM Skillbox `Jul 2025`
-- Developed **Water Guardian**, an AI chatbot using the **Gemini API** for civic issue automation
-- Applied **prompt engineering** and LLM techniques for structured, real-world problem-solving
+![GitHub Streak](https://streak-stats.demolab.com?user=g00562&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌦️ Automated Weather ETL Pipeline</h3>
-      <p><code>Python</code> · <code>REST API</code> · <code>Pandas</code> · <code>MySQL</code> · <code>Cron</code></p>
-      <p>End-to-end pipeline extracting real-time weather data, transforming it with Pandas, and loading into MySQL — fully automated via cron with error handling and duplicate control.</p>
-      <a href="https://github.com/Ishanhirani11">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗂️ Job Data Aggregation Pipeline</h3>
-      <p><code>Python</code> · <code>Web Scraping</code> · <code>Pandas</code> · <code>SQL</code></p>
-      <p>Scraped and standardized job listings from Naukri & Indeed — capturing title, company, salary, location and experience into a clean, queryable dataset.</p>
-      <a href="https://github.com/Ishanhirani11">🔗 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ Voice-Based Virtual Desktop Assistant</h3>
-      <p><code>Python</code> · <code>Electron</code> · <code>Whisper/Vosk</code> · <code>Gemini/Groq</code> · <code>ChromaDB</code></p>
-      <p>Cross-platform AI voice assistant with hybrid NLP (cloud + local), modular event-driven architecture, ChromaDB memory, and offline fault-tolerant execution.</p>
-      <a href="https://github.com/Ishanhirani11">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💧 Water Guardian — Civic AI Chatbot</h3>
-      <p><code>Python</code> · <code>Gemini API</code> · <code>Prompt Engineering</code> · <code>LLMs</code></p>
-      <p>AI-powered chatbot built at IBM Skillbox that automates civic issue reporting using LLMs, structured prompt design, and HTTP-based API integration.</p>
-      <a href="https://github.com/Ishanhirani11/Water-Guardian-Chatbot">🔗 View Repo</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏅 Certifications
-
-| Certificate | Provider | Status |
-|---|---|---|
-| IBM Data Engineering Professional Certificate | IBM / Coursera | 🔄 In Progress |
-| Google Data Analytics | Google / Coursera | 🔄 In Progress |
-| Data Engineering on AWS Foundations | AWS | 🔄 In Progress |
-| AWS Cloud Quest: Generative AI Practitioner | AWS | 🔄 In Progress |
-| GenAI Powered Data Analytics Job Simulation | Tata Group | ✅ Completed |
-| Data Visualisation Program | Tata Group | ✅ Completed |
-
----
-
-## 🎓 Education
-
-| Degree | Institute | Score | Year |
-|---|---|---|---|
-| B.Tech — AI & Data Science | Government Engineering College, Rajkot | CGPA: 7.20 | 2026 |
-| 12th Science | SGVP International School, Ahmedabad | 80% | 2022 |
+</div>
 
 ---
 
