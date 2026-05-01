@@ -107,11 +107,6 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&rank_icon=github&cache_seconds=1800" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&cache_seconds=1800" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2" />
 </div>
 
