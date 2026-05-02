@@ -104,14 +104,6 @@ I'm a final-year AI & Data Science student with a strong focus on **Data Enginee
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2" />
-</div>
-
----
-
 <p align="center">
   <i>"Data is only as valuable as the pipeline that delivers it."</i><br/><br/>
   <a href="https://linkedin.com/in/ishan-hirani"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
